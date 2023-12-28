@@ -1,0 +1,18 @@
+<truststore xmlns="urn:ietf:params:xml:ns:yang:ietf-truststore">
+    <certificates>
+      <name>cacerts</name>
+      <certificate>
+        <name>IDevID-CA</name>
+        <cert>MIIBrzCCAVagAwIBAgIUbe6s8sTnnxHIIfNjG8Yi6DCECUIwCgYIKoZIzj0EAwIw
+NzEeMBwGA1UECgwVRGV2aWNlIE1hbnVmYWN0dXJlciAxMRUwEwYDVQQDDAxJRGV2
+IFJvb3QgQ0EwHhcNMjMxMjEzMTYzNzE0WhcNMjQxMjEyMTYzNzE0WjAUMRIwEAYD
+VQQFEwkxMjM0NTYtYWQwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAASeSTaDVxNc
+uxsTui92dlZyDd1GY6sM1sozJioD7NllZb1M1RiQaUAbW8gUMsIf0wWoHum7tI7q
+WCiq7UV6DGIWo2MwYTAPBgNVHRMBAf8EBTADAgEAMA4GA1UdDwEB/wQEAwIHgDAd
+BgNVHQ4EFgQU+p+Hf8RCusNcykhFIksDQHrebjswHwYDVR0jBBgwFoAUtH8hVYrZ
+/o6CU+7FGgMeVAAELgUwCgYIKoZIzj0EAwIDRwAwRAIgZwhqv81J6yKR6VSTPJfk
+XgBZMjB7J0MMq1Ra5HkiD0YCIAO0/dTwlCCzUmgEyHC+tLJHQ0rVse8WjR0n6Xbq
+5mVu</cert>
+      </certificate>
+    </certificates>
+</truststore>
